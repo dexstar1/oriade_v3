@@ -1,0 +1,36 @@
+/* custom styles */
+
+#features2-t .card-img img {
+    width: 60%;
+    float: left;
+    margin-right: 10px;
+  }
+  #email-footer4-z[type="email"] {
+    width: 80px !important;
+  }
+  .cid-riIoHoOH4A .card .card-header a.panel-title h4 {
+    border: none !important;
+    padding: 1.3rem 0rem !important;
+    margin-bottom: 0 !important;
+    background-color: #fff !important;
+    border-bottom: 3px solid #ddd !important;
+  }
+  .display-2 {
+    color: #04546e !important;
+  }
+  .cid-riIoHoOH4A .toggle-content {
+    padding-left: 100px;
+  }
+  .cid-riIoHoOH4A .mbr-figure {
+    padding-left: 0px !important;
+  }
+  .cid-riIoHoOH4A .mbr-figure img {
+    width: 60% !important;
+    margin: 200px auto;
+  }
+  .contact-info {
+    box-shadow: 2px 2px 2px 2px #eee;
+    padding: 1.9rem;
+    border-radius: 5px;
+    margin: 40px 0px;
+}
