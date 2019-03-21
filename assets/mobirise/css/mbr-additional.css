@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Abril+Fatface');
 
 
 
@@ -1963,7 +1963,7 @@ body {
 .cid-reFA0ykVSF {
   padding-top: 180px;
   padding-bottom: 90px;
-  background-image: url("../../images/artboard-1xxhdpi-2000x2000.png");
+  background-image: url("../../images/bg1.jpg");
   height: 100vh;
   background-attachment: fixed;
 }
@@ -2891,10 +2891,10 @@ body {
   width: 80%;
 }
 h1.display-2 {
-  font-size: 3.7rem;
-  color: #000;
+  font-size: 4.7rem;
+  color: #fff;
   font-weight: bolder;
-  line-height: 60px !important;
+  line-height: 70px !important;
 }
 .cards-container.services{
   display: flex;
@@ -2915,6 +2915,7 @@ h4.display-5 {
 }
 .display-5.hero{
   margin-top: 0px !important;
+  color:#fff !important;
 }
 .media-block.service-block {
   padding-right: 11rem;
@@ -3004,6 +3005,16 @@ h1,h2, h3, h4, h5, h6{
 .title-text2 {
   font-size: 30px !important;
   margin-top: 5px !important;
+  font-family: 'Abril Fatface', cursive;
+}
+.about-title{
+  width: 20%;
+}
+.about-title h3{
+  text-align: left;
+}
+.about-content{
+  width: 80%;
 }
 h2.about-desc {
   line-height: 40px !important;
@@ -3387,4 +3398,14 @@ a:not([href]):not([tabindex]) {
   .display-4 {
     text-align: center;
   }
+  
+.about-title{
+  width: 100%;
+}
+.about-title h3{
+  text-align: left;
+}
+.about-content{
+  width: 100%;
+}
 }
